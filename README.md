@@ -3,15 +3,15 @@
 https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf
 
 * Programming Challenges - The Programming Contest Training Manual (2003) [pdf](books/Programming_Challenges.pdf)
-link: http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
 
 * The Art of Programming Contest [pdf](books/Art_of_Programming_Contest_SE_for_uva.pdf)
 https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf
 
-* Competitive Programmer’s Handbook (2018)
+* Competitive Programmer’s Handbook (2018) [pdf](books/Competitive_Programmers_Handbook.pdf)
 https://cses.fi/book/book.pdf
 
-* The Hitchhiker's Guide to the Programming Contests
+* The Hitchhiker's Guide to the Programming Contests [pdf](books/Hitchhikers_Guide_to_Programming_Contests.pdf)
 https://comscigate.com/Books/contests/icpc.pdf
 
 # Sites
